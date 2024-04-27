@@ -1,3 +1,0 @@
-*[[:space:]].Dense-U-net filter=lfs diff=lfs merge=lfs -text
-*.Dense-U-net filter=lfs diff=lfs merge=lfs -text
-Dense-U-net.h5 filter=lfs diff=lfs merge=lfs -text
